@@ -139,7 +139,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
   <a href="http://wa.me/393755775755" target="blank"><img src="https://img.shields.io/badge/Fabri115_COLAB.12-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## `COLABORADORES DEL BOT` 
-<a href="https://github.com/"><img src="https://github.com/.png" width="100" height="100" alt="unptoadrih15"/></a>
+<a href="https://github.com/AngelPeruFachero"><img src="https://github.com/AngelPeruFachero." width="100" height="100" alt="unptoadrih15"/></a>
 <a href="https://github.com/"><img src="https://github.com/.png" width="100" height="100" alt="ALBERTO9883"/></a>
 <a href="https://github.com/ferhacks"><img src="https://github.com/ferhacks.png" width="100" height="100" alt="ferhacks"/></a>
 <a href="https://github.com/Gatito-kw"><img src="https://github.com/Gatito-kw.png" width="100" height="100" alt="Gatito-kw"/></a>
